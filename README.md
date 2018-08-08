@@ -1,4 +1,4 @@
-# Spigot BuildTools Set Linux
+# Spigot BuildTools Set in Linux
 Minecraft Spigot Server Install Set in Linux
 
 # Parameter
